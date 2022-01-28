@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn FORGE!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!          Learn FORGE!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+          Learn FORGE!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!          Learn FORGE!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
       </header>
     </div>
   );
