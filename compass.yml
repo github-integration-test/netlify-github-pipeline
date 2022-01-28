@@ -1,0 +1,14 @@
+name: netlify-github-pipeline
+id: 'ari:cloud:compass:a10ea91e-27d4-4f44-b66d-bd62492de975:component/b339cd9b-4f38-471a-bded-630454b12269/0da84b72-2e69-4cf3-881d-c0ae82912c9a'
+description: netlify-github-pipeline
+ownerId: null
+fields:
+  tier: 4
+links:
+  - name: Source Code
+    type: REPOSITORY
+    url: 'https://github.com/github-integration-test/netlify-github-pipeline'
+relationships: {}
+
+# Learn more about formatting compass.yml:
+# https://go.atlassian.com/compass-yml-format
