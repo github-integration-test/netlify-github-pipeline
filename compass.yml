@@ -1,0 +1,11 @@
+name: netlify-github-pipeline
+id: ari:cloud:compass:a10ea91e-27d4-4f44-b66d-bd62492de975:component/b339cd9b-4f38-471a-bded-630454b12269/f6e2478c-53cb-4c73-9105-f14d15b94e1b
+description: netlify-github-pipeline
+fields:
+  tier: 4
+links:
+  - type: REPOSITORY
+    name: null
+    url: https://github.com/github-integration-test/netlify-github-pipeline
+relationships:
+  DEPENDS_ON: []
